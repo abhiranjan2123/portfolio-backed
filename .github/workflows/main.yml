@@ -13,8 +13,8 @@ jobs:
         run: echo hello from portfolio backend
       - name: running npm
         run: npm install
-      - name: run help
-        run: npm help
+      - name: run code
+        run: npm run start
     
     
 
